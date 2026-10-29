@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Media and transcripts
+*.mp3
+*.mp4
+*.raw.txt
+linear_algebra_1st_lecture.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
